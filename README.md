@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/harshavardhan-007/harshavardhan-007/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/harshavardhan-007/aboutme/blob/output/github-contribution-grid-snake.gif)
 
 ###
