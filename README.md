@@ -47,6 +47,6 @@
 
 <br clear="both">
 
-![snake gif](https://github.com/harshavardhan-007/aboutme/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/harshavardhan-007/harshavardhan-007/blob/output/github-contribution-grid-snake.gif)
 
 ###
